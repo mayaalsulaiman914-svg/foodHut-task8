@@ -1,0 +1,23 @@
+.container-desc {
+   padding-bottom: 30px;
+   display: flex;
+   align-items: center;
+   gap: 10px;
+}
+
+.download-app {
+  .container-desc {
+   background-color: #000000;
+   color: #FFFFFF;
+   justify-content: space-between;
+   padding: 5px;
+   border-radius: 5px;
+  } 
+}
+
+@media screen And (max-width : 992px) {
+   .download-app {
+  .container-desc {
+   
+  }}
+}

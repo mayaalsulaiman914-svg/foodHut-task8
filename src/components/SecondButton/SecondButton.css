@@ -1,0 +1,22 @@
+.second-button {
+    .btn {
+        min-width: 92px;
+        height: 44px;
+        border-radius: 100px;
+        outline: none;
+        background: none;
+        cursor: pointer;
+
+        &:hover {
+            background-color: #F54748;
+            color: #fff;
+            border: none;
+        }
+        &.active {
+             background-color: #F54748;
+            color: #fff;
+            border: none;
+        }
+      
+    }
+}

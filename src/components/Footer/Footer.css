@@ -1,0 +1,111 @@
+ .footer-container {
+    .footer-info {
+      max-width: 325px;
+        h2 {  
+        font-weight: 600; 
+        font-size: 32px; 
+        line-height: 100%;
+        letter-spacing: 0%;
+        color: #F54748;
+        margin-bottom: 10px;
+
+        }
+        p{
+        padding-bottom: 22px;
+        font-weight: 400;
+        font-size: 18px;
+        leading-trim: NONE;
+        line-height: 100%;
+        letter-spacing: 0%;
+
+        }
+
+        .icons {
+            display: flex;
+            gap: 26px;
+        }
+    }
+    .container-links {
+        display: flex;
+        justify-content: space-between;
+        gap: 99px;
+          .con-link {
+        h2 {
+      
+        font-weight: 600;  
+        font-size: 24px;
+        leading-trim: NONE;
+        line-height: 100%;
+        letter-spacing: 0%;
+        color: #F54748;
+        margin-bottom: 17px;
+
+        }
+        ul {
+            list-style: none;
+            li {
+                a {
+                    text-decoration: none;
+                    color: #191919;
+                }
+            }
+        }
+    }
+  
+    }
+       .cont-subsc {
+        max-width: 379px;
+        h2 {
+        padding-bottom: 37px;
+        font-weight: 600;
+        font-size: 24px;
+        leading-trim: NONE;
+        line-height: 100%;
+        letter-spacing: 0%;
+        color: #F54748;
+
+        }
+        p{
+            padding-bottom: 27px;
+            font-weight: 400; 
+            font-size: 18px;
+            leading-trim: NONE;
+            line-height: 100%;
+            letter-spacing: 0%;
+        
+
+        }
+        .search {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+            .inputEmail{
+                width: 205px;
+                height: 50px;
+                border-radius: 38px;
+                border: none;
+                outline: none;
+                padding-left: 24px ;
+               
+            }
+            .btn {
+            width: 118px;
+            height: 50px;
+            background-color: #F54748;
+            border-radius: 39px;
+            border: none;
+            outline: none;
+            color: #fff;
+        }
+        }
+         
+    }
+   
+ }
+
+ @media screen And (max-width : 992px) {
+ .footer-container {
+      .container-links {
+        gap: 50px;
+      }
+ }}

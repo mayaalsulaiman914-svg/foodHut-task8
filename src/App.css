@@ -1,0 +1,153 @@
+ .app {
+    --bg-color: #ffff;
+    --text-color: #0D0D0D;
+     --text-color-reverse:#ffff;
+     --text-color-watch : #686D77 ;
+     background-color: var(--bg-color);
+     color: var(--text-color);
+     min-height: 100vh;
+     transition: all 0.1s ease-in-out;
+     --color-bars :#191919 ;
+     --color-border : #19191983 ;
+     --bg-search: linear-gradient(180deg, rgba(245, 71, 72, 0.06) 0%, rgba(245, 71, 72, 0) 100%);
+     overflow: hidden;
+    --backg-email :#1919191A   ;
+
+     
+     
+ }
+
+ .appDark {
+    --bg-color: #0D0D0D;
+     --bg-search: #0D0D0D;
+    --text-color: #ffffff;
+     --text-color-reverse:#0D0D0D;
+      --text-color-watch : #ffffff ;
+     background-color: var(--bg-color);
+     color: var(--text-color);
+     min-height: 100vh;
+     transition: all 0.3s ease-in-out;
+     --color-bars : #ffffff;
+     --color-border : #FFFFFF ;
+    --backg-email : #FFFFFF1A ;
+
+    
+ }
+
+ 
+ .header {
+  
+    background: linear-gradient(180deg, rgba(245, 71, 72, 0.06) 0%, rgba(245, 71, 72, 0) 100%);
+    color: var(--text-color);
+    overflow: hidden;
+ }
+
+.navItem {
+    a {
+        color: var(--text-color);
+    }
+     .mode {
+        color: var(--text-color-reverse);
+     }
+
+}  
+
+.navBar .bars {
+    color: var(--color-bars);
+}
+
+.storm {
+        position: absolute;
+        top: -2%;
+        right: 0;
+    }
+
+
+.hero {
+
+     .info-hero{
+          .title-text {
+            color: var(--text-color);
+            }
+
+    .hero-search {
+        border: 0.5px solid var(--bg-search);
+        .one {
+            .searchInput{
+                background-color: var(--bg-color);
+                &:focus {
+                    color: var(--text-color);
+                }
+            }
+        }
+    }
+
+        .btns {
+            .download {
+                color: var(--text-color-reverse);
+            }
+
+    .video {
+
+        p {
+            color: var(--text-color-watch);
+        }
+     }
+}
+     }
+   
+
+ .image-hero {
+ 
+     .container-rate {
+         .rate1 {
+              background-color: var(--bg-color);
+
+              .text{
+                color: var(--text-color);
+              }
+         }
+         .rate2 {
+            background-color: var(--bg-color);
+             .text{
+                color: var(--text-color);
+             }
+         }
+     }
+ }
+} 
+
+.menu {
+.container-btn {
+    .btn {
+          color: var(--text-color);
+          border:  1px solid var(--color-border);
+    }
+   
+}
+ 
+}
+
+ .footer-container{
+     
+  .container {
+    .one {
+          .container-links {
+             a {
+                color: var(--text-color);
+             }
+          }
+        .cont-subsc {
+        .search {
+             .inputEmail{
+               background-color: var(--backg-email);
+               
+            }
+        }
+     }
+    }
+  }
+     
+     
+ }
+ 

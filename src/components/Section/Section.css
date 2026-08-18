@@ -1,0 +1,35 @@
+.section {
+    width: 100%;
+}
+
+.special-offers{
+    padding-top: 126px;
+    position: relative;
+}
+
+.why-section {
+    padding-top: 216px;
+    position: relative;
+    height: 100vh;
+
+    
+}
+.menu {
+    padding-top: 60px;
+}
+.download-app {
+    padding-top: 204px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #fdc55e2e 73.18%);
+
+}
+
+@media screen And (max-width : 992px) {
+    .why-section {
+        padding-top: 65px;
+    }
+
+    .download-app {
+    padding-top: 83px;
+}
+
+}

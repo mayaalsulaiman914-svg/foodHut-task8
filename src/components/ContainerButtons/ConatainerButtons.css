@@ -1,0 +1,22 @@
+.container-btn {
+    max-width: 1018px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    margin:  0 auto;
+    position: relative;
+    width: max-content;
+} 
+
+@media screen And (max-width : 992px) {
+    .container-btn {
+        width: 100%;
+        max-width: 100%;
+        gap: 30px;
+        padding-left: 40px;
+        padding-bottom: 20px;
+        position: relative;
+        z-index: 10;
+    }
+}

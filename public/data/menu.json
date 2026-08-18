@@ -1,0 +1,258 @@
+[{
+    "id" : 1 ,
+    "title" : "Ramen" ,
+    "category" : "Ramen" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png",
+    "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+     "rate" : "(4.5)"
+},
+{
+    "id" : 2 ,
+    "title" : "Ramen" ,
+    "category" : "Ramen" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png",
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+     "rate" : "(4.5)"
+},
+
+{
+    "id" : 3 ,
+    "title" : "Breakfast" ,
+    "category" : "Breakfast" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png" ,
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+  "rate" : "(4.5)"
+},
+
+{
+    "id" : 4 ,
+    "title" : "Breakfast" ,
+    "category" : "Breakfast" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png" ,
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+      "rate" : "(4.5)"
+},
+
+{
+    "id" : 5 ,
+    "title" : "Lunch" ,
+    "category" : "Lunch" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png" ,
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+      "rate" : "(4.5)"
+},
+
+{
+    "id" : 6 ,
+    "title" : "Lunch" ,
+    "category" : "Lunch" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png" ,
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+      "rate" : "(4.5)"
+},
+
+{
+    "id" : 7 ,
+    "title" : "Dinner" ,
+    "category" : "Dinner" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png" ,
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+   "rate" : "(4.5)"
+},
+
+{
+    "id" : 8 ,
+    "title" : "Dinner" ,
+    "category" : "Dinner" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png" ,
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+      "rate" : "(4.5)"
+},
+
+{
+    "id" : 9 ,
+    "title" : "Maxican" ,
+    "category" : "Maxican" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png" ,
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+      "rate" : "(4.5)"
+},
+
+{
+    "id" : 10 ,
+    "title" : "Maxican" ,
+    "category" : "Maxican" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png" ,
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+      "rate" : "(4.5)"
+},
+
+{
+    "id" : 11,
+    "title" : "Italian" ,
+    "category" : "Italian" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png" ,
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+      "rate" : "(4.5)"
+},
+
+{
+    "id" : 12,
+    "title" : "Italian" ,
+    "category" : "Italian" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png" ,
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+      "rate" : "(4.5)"
+},
+
+{
+    "id" : 13 ,
+    "title" : "Desserts" ,
+    "category" : "Desserts" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png" ,
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+      "rate" : "(4.5)"
+},
+
+
+{
+    "id" : 14 ,
+    "title" : "Desserts" ,
+    "category" : "Desserts" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png" ,
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+      "rate" : "(4.5)"
+},
+
+{
+    "id" : 15 ,
+    "title" : "Drinks" ,
+    "category" : "Drinks" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png" ,
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+      "rate" : "(4.5)"
+},
+{
+    "id" : 16 ,
+    "title" : "Drinks" ,
+    "category" : "Drinks" ,
+    "price" : 10 ,
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry" ,
+    "image1" : "/assets/img/halfcircle.png" ,
+    "image2" : "/assets/img/kebab.png" ,
+     "people" :[
+                "/assets/img/person1.png",
+                "/assets/img/person2.png",
+                "/assets/img/person3.png"
+                ] ,
+"rate" : "(4.5)"
+}
+
+
+
+]

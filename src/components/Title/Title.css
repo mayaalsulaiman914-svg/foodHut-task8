@@ -1,0 +1,145 @@
+h1 , span {
+     font-weight: 900;
+     font-style: Bold;
+     letter-spacing: 0%;
+     text-transform: capitalize;
+     leading-trim: NONE;
+
+        span {
+             &.red {
+                    color: #F54748;
+                }
+                &.yello{
+                    color: #FDC55E;
+                }
+        }
+}
+
+p {
+
+font-weight: 400;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0px;
+}
+
+.special-offers {
+     .section-title {
+        text-align: center;
+        h1 {
+        margin-bottom: 22px;
+        font-size: 48px;   
+    }
+
+    p{   
+        margin: 0 auto 66px;
+        max-width: 856px;
+        font-size: 18px;
+        text-transform: capitalize;
+    }
+
+    }
+    
+    
+}
+
+.why-section {
+    .section-title {
+        padding-top: 64px;
+        h1 , span {
+            max-width: 452px;
+            padding-bottom: 20px;
+            font-size: 48px;
+            font-weight: 700;
+            line-height: 130%;
+            letter-spacing: 0%;
+        }
+        p {
+            padding-bottom: 30px;
+            max-width: 690px;
+            font-weight: 400; 
+            font-size: 18px; 
+            line-height: 100%;
+            letter-spacing: 0%;
+            
+
+        }
+    }
+}  
+
+.menu {
+.section-title {
+     
+    h1 , span {
+       
+        padding-bottom: 50px;
+        max-width: 653px;
+        margin: 0 auto;
+        text-align: center;
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 48px;
+        line-height: 100%;
+        text-transform: capitalize;
+    }
+}
+}
+
+.download-app {
+    .section-title {
+        h1 , span {
+            max-width: 643px;
+            font-weight: 700;
+            font-style: Bold;
+            font-size: 48px;
+            margin-bottom: 47px;
+
+        }
+
+        p{
+            max-width: 550px;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 100%;
+            letter-spacing: 0%;
+            margin-bottom: 42px;
+        }
+    }
+}
+
+
+
+@media screen And (max-width : 992px) {
+  .why-section {
+     .section-title {
+       
+        padding-bottom: 29px;
+
+        h1 , p {
+            margin: 0 auto;
+        }
+        p {
+             max-width: 452px;
+        }
+     }
+  }
+  .menu {
+    .section-title {
+        h1 {
+            padding-top: 120px;
+        }
+    }
+  }
+  .download-app {
+    .section-title{
+        padding-top: 50px;
+
+        h1 , span {
+            margin: 0 auto 47px;
+        }
+        p {
+            margin: 0 auto 42px;
+        }
+    }
+  }
+}

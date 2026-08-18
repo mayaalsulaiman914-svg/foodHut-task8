@@ -1,0 +1,37 @@
+.btn button {
+background-color: #F54748;
+border-radius: 100px;
+cursor: pointer;
+color: #FFFFFF;
+border: none;
+outline: none;
+}
+
+.why-section {
+    .container {
+        .content-text {
+         .btn {
+        button { 
+        width: 114px;
+        height: 45px;
+    }
+         }
+        }
+    
+    }
+    
+}
+
+@media screen And (max-width : 992px) {
+    .why-section {
+         .container {
+            .btn {
+            max-width: 452px;
+            display: flex;
+            align-items: self-start;
+            margin: 0 auto;
+         
+            }
+         }
+    }
+}
