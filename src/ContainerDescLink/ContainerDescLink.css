@@ -29,6 +29,7 @@
         }
     }
     .download-app {
+        padding-bottom: 1rem;
         .container-links {
         justify-content: center;
         margin: 0 auto;
