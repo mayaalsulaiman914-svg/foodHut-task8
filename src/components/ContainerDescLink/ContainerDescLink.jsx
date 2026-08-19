@@ -15,6 +15,6 @@ import './ContainerDescLink.css'
  
  export default ContainerDescLink
  
-   /*  <div className='container-links' style={{border : "2px solid red" , padding: "20px"}}> */
+ 
          
     
